@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\bin\Debug\netcoreapp3.1\Generic-All-Around.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\bin\Debug\netcoreapp3.1\Generic-All-Around.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\bin\Debug\netcoreapp3.1\Generic-All-Around.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\bin\Debug\netcoreapp3.1\Generic-All-Around.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\bin\Debug\netcoreapp3.1\Generic-All-Around.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\bin\Debug\netcoreapp3.1\Generic-All-Around.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\obj\Debug\netcoreapp3.1\Generic-All-Around.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\obj\Debug\netcoreapp3.1\Generic-All-Around.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\obj\Debug\netcoreapp3.1\Generic-All-Around.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\obj\Debug\netcoreapp3.1\Generic-All-Around.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\obj\Debug\netcoreapp3.1\Generic-All-Around.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\obj\Debug\netcoreapp3.1\Generic-All-Around.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Generic-All-Around\Generic-All-Around\obj\Debug\netcoreapp3.1\Generic-All-Around.genruntimeconfig.cache
